@@ -51,6 +51,7 @@
 // }
 
 //* 2-nd variant
+//! works 
 const browser = "a"
 if (browser === "Edge") {
     alert("You've got the Edge!")
